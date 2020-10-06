@@ -1,0 +1,1 @@
+[23-Jun-2020 08:22:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/habdskor/public_html/dbpaf/view.php on line 224
